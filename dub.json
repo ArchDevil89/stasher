@@ -1,0 +1,10 @@
+{
+	"name": "stasher",
+	"description": "Stasher - forwarding docker logs to logstash",
+	"copyright": "Copyright © 2014, Sergey Sveshnikov",
+	"authors": ["Sergey Sveshnikov"],
+	"dependencies": {
+    
+	},
+  "targetType" : "executable"
+}
